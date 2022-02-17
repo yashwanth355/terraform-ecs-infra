@@ -2,6 +2,6 @@
  
 set -e
  
-echo $APP_ENV
+echo $APP_ENV=dev
 mv "${APP_ENV}"-app.env app.env
 ./server
