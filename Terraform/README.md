@@ -89,7 +89,7 @@ Configuration in pipeline
   
   The following command inside Jumpbox VM
     
-5. ssh ec2user@PrivateIP of ECS-ec2-instance  (Can be found by checking EC2 dashboard after clicking on ECS-EC2 instance you provisioned)
+5. ssh ec2-user@PrivateIP of ECS-ec2-instance  (Can be found by checking EC2 dashboard after clicking on ECS-EC2 instance you provisioned)
     
   You should be logged into ECS instance in private subnet!!!
 
